@@ -1,17 +1,14 @@
 class Solution {
     public int[] solution(long n) {
         
-        String a = ""+n;
+        String str = n + "";
+        char[] c = str.toCharArray();
+        int[] arr = new int[c.length];
+
+        for (int i = 0; i < c.length; i++) {
+            arr[i]=c[c.length-i-1]-48;
+        }   
         
-        StringBuilder sb = new StringBuilder(a);
-        sb = sb.reverse();
-        
-        String[] stringArr = sb.toString().split("");
-        int[] answer = new int[sb.length()];
-        for(int i =0;i<sb.length();i++){
-            answer[i] = Integer.parseInt(stringArr[i]);
-        }        
-        
-        return answer;
+        return arr;
     }
 }
