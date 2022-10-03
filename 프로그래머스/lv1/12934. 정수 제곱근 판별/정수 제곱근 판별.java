@@ -4,8 +4,8 @@ class Solution {
         long answer = 0;
         
         
-        if(Math.pow((int)Math.sqrt(n) ,2) == n ){
-            answer = (long) Math.pow(Math.sqrt(n)+1 ,2);
+        if(Math.pow((int)Math.sqrt(n),2) == n ){
+            answer = (long)Math.pow((int)Math.sqrt(n)+1,2);
         }else{
             answer = -1;
         }
