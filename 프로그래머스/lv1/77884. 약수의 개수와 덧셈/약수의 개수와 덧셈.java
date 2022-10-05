@@ -8,8 +8,7 @@ class Solution {
         for(int i=left;i<=right;i++){
             for(int j=1;j<=i;j++){
                 if(i%j==0){
-                    n += 1;
-                    
+                    n += 1;  
                 }
             }
             map.put(i,n);
@@ -17,11 +16,7 @@ class Solution {
         }
         System.out.println(map);
         for (int i = left; i <= right ; i++) {
-            if(map.get(i)%2==0){
-                answer += i;
-            }else{
-                answer -= i;
-            }
+           answer = (map.get(i)%2==0) ? answer + i : answer - i;
         }
         return answer;
     }
