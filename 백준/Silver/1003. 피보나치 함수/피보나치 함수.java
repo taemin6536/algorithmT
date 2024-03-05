@@ -1,37 +1,26 @@
-import java.util.List;
-import java.util.ArrayList;
-
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 
-class Main {
-    public static List<Integer> zero = new ArrayList<>();
-    public static List<Integer> one = new ArrayList<>();
-
-    public static void main(String[] args) throws Exception{
-        zero.add(1);
-        zero.add(0);
-        zero.add(1);
-        one.add(0);
-        one.add(1);
-        one.add(1);
+public class Main {
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        int test_time = Integer.parseInt(br.readLine());
-
-        for (int i = 0; i < test_time; i++) {
-            fibo(Integer.parseInt(br.readLine()));
+        int t = Integer.parseInt(br.readLine());
+        long[] dp = new long[41];  //DP 배열 초기화
+        StringBuilder sb = new StringBuilder();
+        dp[1] = 1;
+        for (int i = 2; i <= 40; i++) {
+            dp[i] = dp[i-2] + dp[i-1];
         }
-    }
-
-    public static void fibo(int num) {
-        int size = zero.size();
-        if (num >= size) {
-            for (int i = size; i <= num; i++) {
-                zero.add(zero.get(i - 1) + zero.get(i - 2));
-                one.add(one.get(i - 1) + one.get(i - 2));
+        for (int i = 0; i < t; i++) {
+            int n = Integer.parseInt(br.readLine());
+            //0이면 1 0 출력
+            if (n == 0) {
+                sb.append("1 0\n");
+                continue;
             }
+            sb.append(dp[n-1] + " " + dp[n] + "\n");
         }
-        System.out.printf("%d %d\n", zero.get(num), one.get(num));
+        System.out.print(sb);
     }
 }
