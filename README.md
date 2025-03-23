@@ -25,6 +25,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taemin6536/algorithmT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/taemin6536/algorithmT/tree/master/0125-valid-palindrome) |
+| [0974-reorder-data-in-log-files](https://github.com/taemin6536/algorithmT/tree/master/0974-reorder-data-in-log-files) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/taemin6536/algorithmT/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0974-reorder-data-in-log-files](https://github.com/taemin6536/algorithmT/tree/master/0974-reorder-data-in-log-files) |
+## Sorting
+|  |
+| ------- |
+| [0974-reorder-data-in-log-files](https://github.com/taemin6536/algorithmT/tree/master/0974-reorder-data-in-log-files) |
 <!---LeetCode Topics End-->
