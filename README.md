@@ -49,6 +49,7 @@
 | [0015-3sum](https://github.com/taemin6536/algorithmT/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/taemin6536/algorithmT/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/taemin6536/algorithmT/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/taemin6536/algorithmT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/taemin6536/algorithmT/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/taemin6536/algorithmT/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/taemin6536/algorithmT/tree/master/0837-most-common-word) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/taemin6536/algorithmT/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/taemin6536/algorithmT/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/taemin6536/algorithmT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
