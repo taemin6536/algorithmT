@@ -63,6 +63,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taemin6536/algorithmT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/taemin6536/algorithmT/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/taemin6536/algorithmT/tree/master/0561-array-partition) |
+| [0739-daily-temperatures](https://github.com/taemin6536/algorithmT/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/taemin6536/algorithmT/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/taemin6536/algorithmT/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
@@ -88,10 +89,12 @@
 | [0020-valid-parentheses](https://github.com/taemin6536/algorithmT/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/taemin6536/algorithmT/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/taemin6536/algorithmT/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/taemin6536/algorithmT/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/taemin6536/algorithmT/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/taemin6536/algorithmT/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
