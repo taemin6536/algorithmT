@@ -88,6 +88,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/taemin6536/algorithmT/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/taemin6536/algorithmT/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/taemin6536/algorithmT/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/taemin6536/algorithmT/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/taemin6536/algorithmT/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/taemin6536/algorithmT/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/taemin6536/algorithmT/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/taemin6536/algorithmT/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
