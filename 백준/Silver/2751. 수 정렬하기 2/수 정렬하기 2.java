@@ -1,27 +1,27 @@
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        Set<Integer> set = new TreeSet<>();
-
         int N = Integer.parseInt(br.readLine());
+        
+        int[] arr = new int[N];
         for (int i = 0; i < N; i++) {
-            int num = Integer.parseInt(br.readLine());
-            set.add(num);
+            arr[i] = Integer.parseInt(br.readLine());
         }
 
+        // 배열을 직접 정렬
+        Arrays.sort(arr);
+        
         StringBuilder sb = new StringBuilder();
-        for (Integer i : set) {
-            sb.append(i).append("\n");
+        for (int num : arr) {
+            sb.append(num).append('\n');
         }
-
-        System.out.println(sb);
+        
+        System.out.print(sb);
+        br.close();
     }
 }
