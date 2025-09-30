@@ -8,6 +8,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/taemin6536/algorithmT/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/taemin6536/algorithmT/tree/master/0009-palindrome-number) |
+| [1014-k-closest-points-to-origin](https://github.com/taemin6536/algorithmT/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0859-design-circular-deque](https://github.com/taemin6536/algorithmT/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/taemin6536/algorithmT/tree/master/0860-design-circular-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/taemin6536/algorithmT/tree/master/0974-reorder-data-in-log-files) |
+| [1014-k-closest-points-to-origin](https://github.com/taemin6536/algorithmT/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0049-group-anagrams](https://github.com/taemin6536/algorithmT/tree/master/0049-group-anagrams) |
 | [0561-array-partition](https://github.com/taemin6536/algorithmT/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/taemin6536/algorithmT/tree/master/0974-reorder-data-in-log-files) |
+| [1014-k-closest-points-to-origin](https://github.com/taemin6536/algorithmT/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/taemin6536/algorithmT/tree/master/0004-median-of-two-sorted-arrays) |
+| [1014-k-closest-points-to-origin](https://github.com/taemin6536/algorithmT/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -135,4 +139,16 @@
 | [0232-implement-queue-using-stacks](https://github.com/taemin6536/algorithmT/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/taemin6536/algorithmT/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/taemin6536/algorithmT/tree/master/0860-design-circular-queue) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/taemin6536/algorithmT/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/taemin6536/algorithmT/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/taemin6536/algorithmT/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
